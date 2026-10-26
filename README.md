@@ -56,6 +56,3 @@ c = 30
 
 This project demonstrates the basic stages of compiler design: lexical analysis, parsing, code generation, and execution using a virtual machine.
 
-## License
-
-Add a license if you intend to distribute this project for others to use.
